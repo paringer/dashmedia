@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../...iml" filepath="$PROJECT_DIR$/../...iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidMediaPlayerExercise.iml" filepath="$PROJECT_DIR$/AndroidMediaPlayerExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DashMediaLibrary/DashMediaLibrary.iml" filepath="$PROJECT_DIR$/../DashMediaLibrary/DashMediaLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Zhenya.iml" filepath="$PROJECT_DIR$/../../../Zhenya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Zhenya.iml" filepath="$PROJECT_DIR$/../../../Zhenya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Zhenya.iml" filepath="$PROJECT_DIR$/../../../Zhenya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DashMediaLibrary/dashmedia/dashmedia.iml" filepath="$PROJECT_DIR$/../DashMediaLibrary/dashmedia/dashmedia.iml" />
+    </modules>
+  </component>
+</project>

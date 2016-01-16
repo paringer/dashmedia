@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DashMediaLibrary.iml" filepath="$PROJECT_DIR$/DashMediaLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashmedia/dashmedia.iml" filepath="$PROJECT_DIR$/dashmedia/dashmedia.iml" />
+    </modules>
+  </component>
+</project>
